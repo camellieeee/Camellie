@@ -29,19 +29,7 @@
 ```
 
 ### 2 页面展示
-1. 登录界面
-![登录界面](/Camellie/img/github/login.png "登录界面")
-2. 首页界面
-![首页界面](/Camellie/img/github/index.png "首页界面")
-3. 资讯界面
-![资讯界面](/Camellie/img/github/information.png "资讯界面")
-4. 地图操作
-![地图操作](/Camellie/img/github/map.png "地图操作")
-4. 时间轴操作
-![时间轴操作](/Camellie/img/github/timeline.png "时间轴操作")
-5. 聊天室
-![聊天室](/Camellie/img/github/chatroom.png "聊天室")
-
+<img src="/img/github/login.PNG" width="150" height="266.8"/><img src="/img/github/index.PNG" width="150" height="266.8"/> <img src="/img/github/information.PNG" width="150" height="266.8"/><img src="/img/github/map.PNG" width="150" height="266.8"/><img src="/img/github/timeline.PNG" width="150" height="266.8"/><img src="/img/github/chatroom.PNG" width="150" height="266.8"/>
 
 ### 3 优化加载
 打包jsbundle文件 加载成功便于app加载
