@@ -4,7 +4,7 @@
 1. 暂只支持ios
 2. 下载：git clone https://github.com/camellieeee/Camellie.git
 3. 安装：cd camellie --> npm install --> react-native run-ios
-4. 服务端：具体看下面说明
+4. 百度地图配置：http://114.115.218.220/index.php/2017/07/10/baidu/
 
 
 ### 1 项目文件目录组织
