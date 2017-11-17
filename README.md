@@ -30,17 +30,17 @@
 
 ### 2 页面展示
 1. 登录界面
-![登录界面](/service/public/image/login.png "登录界面")
+![登录界面](/Camellie/img/github/login.png "登录界面")
 2. 首页界面
-![首页界面](/service/public/image/index.png "首页界面")
+![首页界面](/Camellie/img/github/index.png "首页界面")
 3. 资讯界面
-![资讯界面](/service/public/image/information.png "资讯界面")
+![资讯界面](/Camellie/img/github/information.png "资讯界面")
 4. 地图操作
-![地图操作](/service/public/image/map.png "地图操作")
+![地图操作](/Camellie/img/github/map.png "地图操作")
 4. 时间轴操作
-![时间轴操作](/service/public/image/timeline.png "时间轴操作")
+![时间轴操作](/Camellie/img/github/timeline.png "时间轴操作")
 5. 聊天室
-![聊天室](/service/public/image/chatroom.png "聊天室")
+![聊天室](/Camellie/img/github/chatroom.png "聊天室")
 
 
 ### 3 优化加载
